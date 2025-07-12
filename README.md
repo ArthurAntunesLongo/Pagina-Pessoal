@@ -1,3 +1,1 @@
-##TESTANDO CONTEUDO DO SITE
-
-O que ocorre fazendo isso?
+Meu nome é Arthur Antunes Longo, NUSP:15498417, e estou realizando Bacharelado de Ciencia da Computação no IME-USP; com o passar do tempo, tenho que decidir uma trilha para seguir ao longo do curso, e por mais que esteja gostando do curso até o momento, estou cheio de indecisão em que área quero aprofundar, acredito que seguirei pela trilha de Sistemas de Software, dado que acredito querer trabalhar nessa área após formar, vejo Teoria da Computação como teórica demais, boa para quem quer seguir na área acadêmica, não do meu interesse; Inteligência artificial como uma área que está tendo um boom no momento, mas não sei se justifica especializar todo o curso nisso; e Ciência de Dados como a segunda trilha com maior potencial de seguir até o momento.
